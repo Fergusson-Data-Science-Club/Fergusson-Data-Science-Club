@@ -1,3 +1,4 @@
+![Banner](https://github.com/Fergusson-Data-Science-Club/Fergusson-Data-Science-Club/blob/main/DS%20club%20booklet.pdf)
 # Fergusson-Data-Science-Club
 
 # 🎓 Fergusson Data Science Club
