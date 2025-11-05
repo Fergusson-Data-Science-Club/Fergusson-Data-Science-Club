@@ -1,5 +1,5 @@
 ![Banner](https://github.com/Fergusson-Data-Science-Club/Fergusson-Data-Science-Club/blob/main/Banner.jpeg)
-# Fergusson-Data-Science-Club
+
 
 # 🎓 Fergusson Data Science Club
 
