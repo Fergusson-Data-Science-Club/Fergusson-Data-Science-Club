@@ -18,8 +18,8 @@ We’re a community of data enthusiasts, coders, and innovators exploring everyt
 ## 🧩 Our Project Spaces
 | Category | Description |
 |-----------|-------------|
-| 🧠 **Open Source Projects** (https://github.com/Fergusson-Data-Science-Club/open-source-projects) | Ongoing and community-driven data science initiatives |
-| 📚 **Previous Year Projects** (https://github.com/Fergusson-Data-Science-Club/previous-year-projects)| Archived academic & club projects from past batches |
+| 🧠 **Open Source Projects** [LINK](https://github.com/Fergusson-Data-Science-Club/open-source-projects) | Ongoing and community-driven data science initiatives |
+| 📚 **Previous Year Projects** [LINK](https://github.com/Fergusson-Data-Science-Club/previous-year-projects)| Archived academic & club projects from past batches |
 
 Check out our project hub 👉 [Club Hub Repo](https://github.com/Fergusson-Data-Science-Club/Home)
 
